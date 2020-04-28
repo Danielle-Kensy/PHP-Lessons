@@ -1,0 +1,14 @@
+{
+    "name": "kensy/exemplobanco",
+    "description": "exemplo banco",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Danielle Kensy",
+            "email": "daniokgamers@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

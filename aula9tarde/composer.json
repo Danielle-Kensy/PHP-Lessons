@@ -1,0 +1,14 @@
+{
+    "name": "kensy/aula9tarde",
+    "description": "Exemplo fun\u0000\u0000es com array",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Danielle Kensy",
+            "email": "daniokgamers@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

@@ -1,0 +1,17 @@
+{
+    "name": "kensy/app",
+    "description": "Exemplo de cria\u0000\u0000o de projeto pelo composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Danielle Kensy",
+            "email": "daniokgamers@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "^3.3@dev",
+        "cocur/slugify": "dev-master"
+    }
+}
